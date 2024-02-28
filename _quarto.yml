@@ -10,7 +10,7 @@ book:
     - index.qmd
     - 01-PCAs.qmd
 
-bibliography: [references.bib, book.bib]
+bibliography: [references.bib]
 
 format:
   html:
