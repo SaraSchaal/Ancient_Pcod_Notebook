@@ -1,0 +1,9 @@
+# Introduction {.unnumbered}
+
+This notebook outlines the genomics of ancient Pacific cod. This project is funded as a part of a larger Navigating the New Arctic (NNA) Incubator Grant with the genomics aspect gaining additional funding through an NSF Office of Polar Programs Postdoctoral Fellowship. 
+
+## Project Researchers
+- Sara Schaal, PhD, University of Oklahoma/NOAA Alaska Fisheries Science Center Postdoctoral Researcher  
+- Courtney Hofman, PhD, University of Oklahoma, Associate Professor  
+- Catherine West, PhD, Boston University, Associate Professor  
+- Ingrid Spies, PhD, NOAA Alaska Fisheries Science Center, Research Biologist  
