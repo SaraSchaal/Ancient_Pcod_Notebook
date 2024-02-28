@@ -1,0 +1,20 @@
+{
+  "index.qmd": {
+    "index.html": "39fb1570"
+  },
+  "intro.qmd": {
+    "intro.html": "76b15272"
+  },
+  "summary.qmd": {
+    "summary.html": "135ec90f"
+  },
+  "references.qmd": {
+    "references.html": "f769029a"
+  },
+  "02-PCAs.qmd": {
+    "02-PCAs.html": "416e8cde"
+  },
+  "01-PCAs.qmd": {
+    "01-PCAs.html": "6794b5fe"
+  }
+}
