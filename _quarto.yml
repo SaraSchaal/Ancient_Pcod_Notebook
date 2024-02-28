@@ -1,20 +1,20 @@
 project:
   type: book
+  output-dir: _book
 
 book:
   title: "Ancient Pacific cod Genomics"
   author: "Sara M Schaal"
-  date: "2/27/2024"
+  date: last-modified 
   chapters:
     - index.qmd
     - 01-PCAs.qmd
 
-bibliography: references.bib
+bibliography: [references.bib, book.bib]
 
 format:
   html:
     link-external-newwindow: true
     css: styles.css
 
-editor: visual
 
